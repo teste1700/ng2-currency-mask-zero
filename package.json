@@ -1,5 +1,5 @@
 {
-  "name": "ng2-currency-mask",
+  "name": "ng2-currency-mask-zero",
   "version": "4.3.1",
   "description": "A very simple currency mask directive that allows using a number attribute with the ngModel.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cesarrew/ng2-currency-mask.git"
+    "url": "git+https://github.com/teste1700/ng2-currency-mask-zero"
   },
   "keywords": [
     "angular",
@@ -20,12 +20,12 @@
     "ng2",
     "number"
   ],
-  "author": "César Mendonça",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cesarrew/ng2-currency-mask/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/cesarrew/ng2-currency-mask",
+  "homepage": "",
   "devDependencies": {
     "@angular/common": "4.3.2",
     "@angular/compiler": "4.3.2",
